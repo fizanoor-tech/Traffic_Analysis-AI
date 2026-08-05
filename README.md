@@ -24,7 +24,7 @@ Real-time traffic analytics powered by a custom-trained <b>YOLOv8</b> detector,
 <b>ByteTrack</b> multi-object tracking, and an interactive <b>Streamlit</b> dashboard.
 </i>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/-Vehicle_Detection-1fd7b5?style=flat-square"/>
 <img src="https://img.shields.io/badge/-Object_Tracking-7f77dd?style=flat-square"/>
