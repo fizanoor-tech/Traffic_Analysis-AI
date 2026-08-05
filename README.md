@@ -17,12 +17,11 @@
 </div>
 
 ---
-
 ## 🎬 Project demo
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/9cced285-78cd-4504-ac5a-eb1097218741" alt="AI Traffic Analytics — live demo" width="700"/>
+<video src="https://github.com/user-attachments/assets/9cced285-78cd-4504-ac5a-eb1097218741" width="700" autoplay loop muted playsinline controls></video>
 
 <br><br>
 
