@@ -22,7 +22,8 @@
 
 <div align="center">
 
-![demo gif](docs/demo.gif)
+![demo gif](d<img width="600" height="315" alt="AITrafficAnalyticsand1morepage-Profile1-MicrosoftEdge2026-08-0518-21-41-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/16941519-b5b7-47bc-b1f0-13f13563883f" />
+ocs/demo.gif)
 
 *A custom-trained YOLOv8 detector, ByteTrack multi-object tracking, and a purpose-built analytics engine processing live footage inside the Streamlit dashboard.*
 
