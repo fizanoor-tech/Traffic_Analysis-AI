@@ -23,9 +23,13 @@
 
 <img src="https://github.com/user-attachments/assets/8eef0ac7-d64b-4df4-8225-bca593d8b531" alt="AI Traffic Analytics — live demo" width="700"/>
 
+<br><br>
+
 <p>
 <i>A custom-trained <b>YOLOv8</b> detector integrated with <b>ByteTrack</b> multi-object tracking, delivering real-time traffic analytics through an interactive <b>Streamlit</b> dashboard.</i>
 </p>
+
+<br>
 
 <p>
 <img src="https://img.shields.io/badge/-Vehicle_Detection-1fd7b5?style=flat-square"/>
@@ -38,6 +42,7 @@
 </div>
 
 ---
+
 
 
 ## 🧠 Overview
