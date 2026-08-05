@@ -14,8 +14,8 @@
 # 🎬 Live Demo
 
 <div align="center">
+<video src="https://github.com/user-attachments/assets/b979be80-cda4-4909-b939-e97cbf245994" width="72%" autoplay muted loop playsinline controls></video>
 
-<video src="https://github.com/user-attachments/assets/b979be80-cda4-4909-b939-e97cbf245994" width="72%" controls></video>
 
 <br>
 
