@@ -113,9 +113,15 @@ Each object gets a persistent ID and color-coded box by class (vehicle / two-whe
 </p>
 
 ### 3️⃣ Restricted Lane Violation Alert
+
 A vehicle is highlighted in red only after spending 10 consecutive frames inside the restricted zone — the zone itself stays invisible so the feed remains clean.
 
-![violation](docs/violation_demo.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5f8bcd67-55f3-418c-84fc-27fdc58c4366" alt="Restricted Lane Violation Alert" width="85%" />
+  <br/>
+  <em>Vehicle #207 flagged after sustained presence in the restricted zone</em>
+</p>
+
 
 ### 4️⃣ Show / Hide Lane — Live Toggle
 Switch between the annotated view (dashed lane outline visible) and a completely clean feed, at any point during processing — without interrupting the run.
@@ -137,6 +143,8 @@ Traffic volume, vehicle/pedestrian counts, average speed, and violation totals u
 
 
 ---
+
+
 
 ## 🎥 Full Demo Video
 
