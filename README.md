@@ -11,39 +11,33 @@
 
 ---
 
-## 🎬 Live Demo
-
-<p align="center">
-  <b>See the AI traffic analytics system in action.</b>
-</p>
+# 🎬 Live Demo
 
 <div align="center">
 
-<video src="https://github.com/user-attachments/assets/be51925f-2b72-4c9f-86dd-01031ceac4ec" width="85%" autoplay loop muted playsinline></video>
+<video src="https://github.com/user-attachments/assets/b979be80-cda4-4909-b939-e97cbf245994" width="72%" controls></video>
 
 <br><br>
 
-<p>
 <i>
-A custom-trained <b>YOLOv8</b> detector integrated with
-<b>ByteTrack</b> multi-object tracking, delivering real-time traffic
-analytics through an interactive <b>Streamlit</b> dashboard.
+Real-time traffic analytics powered by a custom-trained <b>YOLOv8</b> detector,
+<b>ByteTrack</b> multi-object tracking, and an interactive <b>Streamlit</b> dashboard.
 </i>
-</p>
 
-<br>
+<br><br>
 
-<p>
 <img src="https://img.shields.io/badge/-Vehicle_Detection-1fd7b5?style=flat-square"/>
 <img src="https://img.shields.io/badge/-Object_Tracking-7f77dd?style=flat-square"/>
 <img src="https://img.shields.io/badge/-Lane_Violation_Detection-e24b4a?style=flat-square"/>
 <img src="https://img.shields.io/badge/-Speed_Estimation-f0997b?style=flat-square"/>
 <img src="https://img.shields.io/badge/-Analytics_Dashboard-378ADD?style=flat-square"/>
-</p>
 
 </div>
 
 ---
+
+
+
 
 
 ## 🧠 Overview
