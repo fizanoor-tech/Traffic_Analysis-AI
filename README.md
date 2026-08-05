@@ -22,23 +22,29 @@
 
 <div align="center">
 
-  <img src="docs/demo.gif" alt="Traffic Analytics Demo" width="780"/>
+<img src="https://github.com/user-attachments/assets/8eef0ac7-d64b-4df4-8225-bca593d8b531"
+     alt="Traffic Analytics Demo"
+     width="780"/>
 
-  <br><br>
+<br><br>
 
-  <em>
-    A custom-trained <strong>YOLOv8</strong> detector integrated with
-    <strong>ByteTrack</strong> multi-object tracking and a purpose-built
-    analytics engine for intelligent real-time traffic monitoring.
-  </em>
+<em>
+A custom-trained <strong>YOLOv8</strong> detector integrated with
+<strong>ByteTrack</strong> multi-object tracking and a purpose-built
+analytics engine for intelligent real-time traffic monitoring.
+</em>
 
-  <br><br>
+<br><br>
 
-  🚗 <strong>Vehicle Detection</strong> &nbsp;&nbsp;•&nbsp;&nbsp;
-  🆔 <strong>Persistent Tracking</strong> &nbsp;&nbsp;•&nbsp;&nbsp;
-  🚦 <strong>Lane Violation Detection</strong> &nbsp;&nbsp;•&nbsp;&nbsp;
-  ⚡ <strong>Speed Estimation</strong> &nbsp;&nbsp;•&nbsp;&nbsp;
-  📊 <strong>Live Analytics Dashboard</strong>
+🚗 <strong>Vehicle Detection</strong>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🆔 <strong>Persistent Tracking</strong>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🚦 <strong>Lane Violation Detection</strong>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+⚡ <strong>Speed Estimation</strong>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+📊 <strong>Live Analytics Dashboard</strong>
 
 </div>
 
