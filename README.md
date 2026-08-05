@@ -18,38 +18,31 @@
 
 ---
 
-## 🎥 Demo
+## 🎬 Project Demo
 
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/8eef0ac7-d64b-4df4-8225-bca593d8b531"
      alt="AI Traffic Analytics Demo"
-     width="720"/>
+     width="700"/>
 
-<br><br>
-
-<em>
-A custom-trained <strong>YOLOv8</strong> detector integrated with
-<strong>ByteTrack</strong> multi-object tracking, delivering real-time
-traffic analytics through an interactive <strong>Streamlit</strong> dashboard.
-</em>
-
-<br><br>
+<br>
 
 <p align="center">
-🚗 <strong>Vehicle Detection</strong>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-🆔 <strong>Object Tracking</strong>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-🚦 <strong>Lane Violation Detection</strong>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-⚡ <strong>Speed Estimation</strong>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-📊 <strong>Analytics Dashboard</strong>
+<i>
+A custom-trained <b>YOLOv8</b> detector integrated with <b>ByteTrack</b> multi-object tracking, delivering real-time traffic analytics through an interactive <b>Streamlit</b> dashboard.
+</i>
+</p>
+
+<p align="center">
+🚗 <b>Vehicle Detection</b> &nbsp;|&nbsp;
+🆔 <b>Object Tracking</b> &nbsp;|&nbsp;
+🚦 <b>Lane Violation Detection</b> &nbsp;|&nbsp;
+⚡ <b>Speed Estimation</b> &nbsp;|&nbsp;
+📊 <b>Analytics Dashboard</b>
 </p>
 
 </div>
-
 ---
 
 ## 🧠 Overview
