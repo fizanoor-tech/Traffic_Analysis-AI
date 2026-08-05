@@ -89,6 +89,7 @@ A custom-trained **YOLOv8** detector, **ByteTrack** multi-object tracking, and a
 
 ---
 
+
 ## 🖼️ Screenshots
 
 ### 1️⃣ Interactive Lane Calibration
@@ -102,9 +103,14 @@ Click 4 points directly on the first frame to define a custom restricted lane �
 </p>
 
 ### 2️⃣ Live Detection & Tracking
+
 Each object gets a persistent ID and color-coded box by class (vehicle / two-wheeler / person), with motion trails showing recent movement.
 
-![tracking](docs/tracking_demo.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d9d2d5fe-d28c-4e7f-81cc-7b8adf4dadf7" alt="Live Detection & Tracking" width="85%" />
+  <br/>
+  <em>Persistent object IDs with class-based color coding and motion trails</em>
+</p>
 
 ### 3️⃣ Restricted Lane Violation Alert
 A vehicle is highlighted in red only after spending 10 consecutive frames inside the restricted zone — the zone itself stays invisible so the feed remains clean.
