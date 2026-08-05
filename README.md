@@ -17,33 +17,28 @@
 </div>
 
 ---
-
-## 🎬 Project Demo
+## 🎬 Project demo
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/8eef0ac7-d64b-4df4-8225-bca593d8b531"
-     alt="AI Traffic Analytics Demo"
-     width="700"/>
+<img src="https://github.com/user-attachments/assets/8eef0ac7-d64b-4df4-8225-bca593d8b531" alt="AI Traffic Analytics — live demo" width="700"/>
 
-<br>
-
-<p align="center">
-<i>
-A custom-trained <b>YOLOv8</b> detector integrated with <b>ByteTrack</b> multi-object tracking, delivering real-time traffic analytics through an interactive <b>Streamlit</b> dashboard.
-</i>
+<p>
+<i>A custom-trained <b>YOLOv8</b> detector integrated with <b>ByteTrack</b> multi-object tracking, delivering real-time traffic analytics through an interactive <b>Streamlit</b> dashboard.</i>
 </p>
 
-<p align="center">
-🚗 <b>Vehicle Detection</b> &nbsp;|&nbsp;
-🆔 <b>Object Tracking</b> &nbsp;|&nbsp;
-🚦 <b>Lane Violation Detection</b> &nbsp;|&nbsp;
-⚡ <b>Speed Estimation</b> &nbsp;|&nbsp;
-📊 <b>Analytics Dashboard</b>
+<p>
+<img src="https://img.shields.io/badge/-Vehicle_Detection-1fd7b5?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Object_Tracking-7f77dd?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Lane_Violation_Detection-e24b4a?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Speed_Estimation-f0997b?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Analytics_Dashboard-378ADD?style=flat-square"/>
 </p>
 
 </div>
+
 ---
+
 
 ## 🧠 Overview
 
