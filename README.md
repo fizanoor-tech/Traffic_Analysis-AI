@@ -124,10 +124,17 @@ Switch between the annotated view (dashed lane outline visible) and a completely
 |---|---|
 | ![lane on](docs/lane_on_demo.png) | ![lane off](docs/lane_off_demo.png) |
 
+
 ### 5️⃣ Live Analytics Dashboard
+
 Traffic volume, vehicle/pedestrian counts, average speed, and violation totals update in real time as the video processes.
 
-![analytics](docs/dashboard_metrics_demo.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c338945a-d963-45e7-88aa-02617f652958" alt="Live Analytics Dashboard" width="40%" />
+  <br/>
+  <em>Metrics update live as each frame is processed</em>
+</p>
+
 
 ---
 
