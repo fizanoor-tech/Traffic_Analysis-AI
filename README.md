@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<video src="https://github.com/user-attachments/assets/7e836047-44dc-4479-8952-e909e3452114" width="100%" autoplay loop muted playsinline></video>
+<video src="https://github.com/user-attachments/assets/7e836047-44dc-4479-8952-e909e3452114" width="85%" autoplay loop muted playsinline></video>
 
 <br><br>
 
@@ -42,23 +42,6 @@
 </div>
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## 🧠 Overview
 
