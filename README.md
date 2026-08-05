@@ -123,15 +123,8 @@ A vehicle is highlighted in red only after spending 10 consecutive frames inside
 </p>
 
 
-### 4️⃣ Show / Hide Lane — Live Toggle
-Switch between the annotated view (dashed lane outline visible) and a completely clean feed, at any point during processing — without interrupting the run.
 
-| Lane Visible | Lane Hidden |
-|---|---|
-| ![lane on](docs/lane_on_demo.png) | ![lane off](docs/lane_off_demo.png) |
-
-
-### 5️⃣ Live Analytics Dashboard
+### 4️⃣ Live Analytics Dashboard
 
 Traffic volume, vehicle/pedestrian counts, average speed, and violation totals update in real time as the video processes.
 
