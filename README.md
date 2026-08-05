@@ -37,16 +37,26 @@ Real-time traffic analytics powered by a custom-trained <b>YOLOv8</b> detector,
 ---
 
 
-
-
+---
 
 ## 🧠 Overview
+
+<div align="center">
+
+### 🎯 Detect &nbsp;→&nbsp; 🔗 Track &nbsp;→&nbsp; 📊 Analyze &nbsp;→&nbsp; 🖥️ Visualize
+
+**One live pipeline, from raw video to actionable traffic insight.**
+
+</div>
+
+<br>
 
 A custom-trained **YOLOv8** detector, **ByteTrack** multi-object tracking, and a purpose-built analytics engine come together in one live traffic monitoring pipeline — wrapped in an interactive Streamlit dashboard where anyone can upload footage, calibrate a restricted lane, and watch the numbers update in real time.
 
 > Built end-to-end — dataset curation → model training → tracking pipeline → deployable web app.
 
 ---
+
 
 ## ✨ Features
 
