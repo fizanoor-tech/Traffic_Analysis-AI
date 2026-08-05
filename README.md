@@ -8,49 +8,6 @@
 ![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-red?logo=streamlit)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
----
-
-## 📸 Demo
-
-<div align="center">
-
-🎥 **[Watch the full demo video](https://youtu.be/your-video-id)**
-
-</div>
-
----
-
-### 1️⃣ Interactive Lane Calibration
-Click 4 points directly on the first frame to define a custom restricted lane — no hardcoded coordinates, works for any uploaded video.
-
-![roi selector](docs/roi_selector_demo.png)
-
-### 2️⃣ Live Detection & Tracking
-Each object gets a persistent ID and color-coded box by class (vehicle / two-wheeler / person), with motion trails showing recent movement.
-
-![tracking](docs/tracking_demo.png)
-
-### 3️⃣ Restricted Lane Violation Alert
-A vehicle is highlighted in red only after spending 10 consecutive frames inside the restricted zone — the zone itself stays invisible so the feed remains clean.
-
-![violation](docs/violation_demo.png)
-
-### 4️⃣ Show / Hide Lane — Live Toggle
-Switch between the annotated view (dashed lane outline visible) and a completely clean feed, at any point during processing — without interrupting the run.
-
-| Lane Visible | Lane Hidden |
-|---|---|
-| ![lane on](docs/lane_on_demo.png) | ![lane off](docs/lane_off_demo.png) |
-
-### 5️⃣ Live Analytics Dashboard
-Traffic volume, vehicle/pedestrian counts, average speed, and violation totals update in real time as the video processes.
-
-![analytics](docs/dashboard_metrics_demo.png)
-
----
-
-## 🧠 Overview
-
 <div align="center">
 
 ### 🎯 Detect &nbsp;→&nbsp; 🔗 Track &nbsp;→&nbsp; 📊 Analyze &nbsp;→&nbsp; 🖥️ Visualize
@@ -59,7 +16,21 @@ Traffic volume, vehicle/pedestrian counts, average speed, and violation totals u
 
 </div>
 
-<br>
+---
+
+## 📸 Demo
+
+<div align="center">
+
+![demo gif](docs/demo.gif)
+
+*A custom-trained YOLOv8 detector, ByteTrack multi-object tracking, and a purpose-built analytics engine processing live footage inside the Streamlit dashboard.*
+
+</div>
+
+---
+
+## 🧠 Overview
 
 A custom-trained **YOLOv8** detector, **ByteTrack** multi-object tracking, and a purpose-built analytics engine come together in one live traffic monitoring pipeline — wrapped in an interactive Streamlit dashboard where anyone can upload footage, calibrate a restricted lane, and watch the numbers update in real time.
 
@@ -97,6 +68,50 @@ A custom-trained **YOLOv8** detector, **ByteTrack** multi-object tracking, and a
 
 </td></tr>
 </table>
+
+---
+
+## 🖼️ Screenshots
+
+### 1️⃣ Interactive Lane Calibration
+Click 4 points directly on the first frame to define a custom restricted lane — no hardcoded coordinates, works for any uploaded video.
+
+![roi selector](docs/roi_selector_demo.png)
+
+### 2️⃣ Live Detection & Tracking
+Each object gets a persistent ID and color-coded box by class (vehicle / two-wheeler / person), with motion trails showing recent movement.
+
+![tracking](docs/tracking_demo.png)
+
+### 3️⃣ Restricted Lane Violation Alert
+A vehicle is highlighted in red only after spending 10 consecutive frames inside the restricted zone — the zone itself stays invisible so the feed remains clean.
+
+![violation](docs/violation_demo.png)
+
+### 4️⃣ Show / Hide Lane — Live Toggle
+Switch between the annotated view (dashed lane outline visible) and a completely clean feed, at any point during processing — without interrupting the run.
+
+| Lane Visible | Lane Hidden |
+|---|---|
+| ![lane on](docs/lane_on_demo.png) | ![lane off](docs/lane_off_demo.png) |
+
+### 5️⃣ Live Analytics Dashboard
+Traffic volume, vehicle/pedestrian counts, average speed, and violation totals update in real time as the video processes.
+
+![analytics](docs/dashboard_metrics_demo.png)
+
+---
+
+## 🎥 Full Demo Video
+
+<div align="center">
+
+[![Watch the full demo](docs/video_thumbnail.png)](https://youtu.be/your-video-id)
+
+**▶️ [Watch the full walkthrough (2:15)](https://youtu.be/your-video-id)**
+*Upload → polygon selection → processing → live results*
+
+</div>
 
 ---
 
