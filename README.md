@@ -9,21 +9,20 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 
----
 
+
+---
 # 🎬 Live Demo
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/b979be80-cda4-4909-b939-e97cbf245994" width="72%" autoplay muted loop playsinline controls></video>
 
+<img src="https://github.com/user-attachments/assets/3baa528f-cfea-4be9-8c7d-956e49ef6f5e" width="72%" alt="AI Traffic Analytics Live Demo" />
 
 <br>
-
 <i>
 Real-time traffic analytics powered by a custom-trained <b>YOLOv8</b> detector,
 <b>ByteTrack</b> multi-object tracking, and an interactive <b>Streamlit</b> dashboard.
 </i>
-
 <br><br>
 
 <img src="https://img.shields.io/badge/-Vehicle_Detection-1fd7b5?style=flat-square"/>
@@ -33,7 +32,6 @@ Real-time traffic analytics powered by a custom-trained <b>YOLOv8</b> detector,
 <img src="https://img.shields.io/badge/-Analytics_Dashboard-378ADD?style=flat-square"/>
 
 </div>
-
 ---
 
 
