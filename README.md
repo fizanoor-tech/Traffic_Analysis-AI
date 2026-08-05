@@ -18,14 +18,27 @@
 
 ---
 
-## 📸 Demo
+## 🎥 Demo
 
 <div align="center">
 
-![demo gif](d<img width="600" height="315" alt="AITrafficAnalyticsand1morepage-Profile1-MicrosoftEdge2026-08-0518-21-41-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/16941519-b5b7-47bc-b1f0-13f13563883f" />
-ocs/demo.gif)
+  <img src="docs/demo.gif" alt="Traffic Analytics Demo" width="780"/>
 
-*A custom-trained YOLOv8 detector, ByteTrack multi-object tracking, and a purpose-built analytics engine processing live footage inside the Streamlit dashboard.*
+  <br><br>
+
+  <em>
+    A custom-trained <strong>YOLOv8</strong> detector integrated with
+    <strong>ByteTrack</strong> multi-object tracking and a purpose-built
+    analytics engine for intelligent real-time traffic monitoring.
+  </em>
+
+  <br><br>
+
+  🚗 <strong>Vehicle Detection</strong> &nbsp;&nbsp;•&nbsp;&nbsp;
+  🆔 <strong>Persistent Tracking</strong> &nbsp;&nbsp;•&nbsp;&nbsp;
+  🚦 <strong>Lane Violation Detection</strong> &nbsp;&nbsp;•&nbsp;&nbsp;
+  ⚡ <strong>Speed Estimation</strong> &nbsp;&nbsp;•&nbsp;&nbsp;
+  📊 <strong>Live Analytics Dashboard</strong>
 
 </div>
 
