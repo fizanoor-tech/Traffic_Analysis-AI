@@ -35,7 +35,7 @@ Real-time traffic analytics powered by a custom-trained <b>YOLOv8</b> detector,
 </div>
 
 ---
-<br><br>
+
 
 ## 🧠 Overview
 
