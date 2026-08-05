@@ -8,16 +8,14 @@
 ![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-red?logo=streamlit)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-<div align="center">
-
-### 🎯 Detect &nbsp;→&nbsp; 🔗 Track &nbsp;→&nbsp; 📊 Analyze &nbsp;→&nbsp; 🖥️ Visualize
-
-**One live pipeline, from raw video to actionable traffic insight.**
-
-</div>
 
 ---
-## 🎬 Project demo
+
+## 🎬 Live Demo
+
+<p align="center">
+  <b>See the AI traffic analytics system in action.</b>
+</p>
 
 <div align="center">
 
@@ -26,7 +24,11 @@
 <br><br>
 
 <p>
-<i>A custom-trained <b>YOLOv8</b> detector integrated with <b>ByteTrack</b> multi-object tracking, delivering real-time traffic analytics through an interactive <b>Streamlit</b> dashboard.</i>
+<i>
+A custom-trained <b>YOLOv8</b> detector integrated with
+<b>ByteTrack</b> multi-object tracking, delivering real-time traffic
+analytics through an interactive <b>Streamlit</b> dashboard.
+</i>
 </p>
 
 <br>
@@ -42,7 +44,6 @@
 </div>
 
 ---
-
 
 
 ## 🧠 Overview
