@@ -89,19 +89,17 @@ A custom-trained **YOLOv8** detector, **ByteTrack** multi-object tracking, and a
 
 ---
 
-
-
-<img width="1920" height="1080" alt="Screenshot 2026-08-06 005442" src="https://github.com/user-attachments/assets/ebccb012-e3f7-429f-99be-955ace5ba88d" />
-
-
-
-
 ## 🖼️ Screenshots
 
 ### 1️⃣ Interactive Lane Calibration
+
 Click 4 points directly on the first frame to define a custom restricted lane — no hardcoded coordinates, works for any uploaded video.
 
-<img src="https://github.com/user-attachments/assets/ebccb012-e3f7-429f-99be-955ace5ba88d" alt="Interactive Lane Calibration" width="85%" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ebccb012-e3f7-429f-99be-955ace5ba88d" alt="Interactive Lane Calibration" width="85%" />
+  <br/>
+  <em>4-point polygon calibration — no hardcoded lane coordinates required</em>
+</p>
 
 ### 2️⃣ Live Detection & Tracking
 Each object gets a persistent ID and color-coded box by class (vehicle / two-wheeler / person), with motion trails showing recent movement.
