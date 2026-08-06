@@ -15,7 +15,7 @@
 
 <img src="https://github.com/user-attachments/assets/3baa528f-cfea-4be9-8c7d-956e49ef6f5e" width="72%" alt="AI Traffic Analytics Live Demo" />
 
-<br>
+<br><br>
 <i>
 Real-time traffic analytics powered by a custom-trained <b>YOLOv8</b> detector,
 <b>ByteTrack</b> multi-object tracking, and an interactive <b>Streamlit</b> dashboard.
