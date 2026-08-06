@@ -12,9 +12,8 @@
 
 
 ---
-<div align="center">
-
 ## 🎬 Live Demo
+<div align="center">
 
 *Watch the full walkthrough — upload, calibration, live detection & analytics in action*
 
@@ -35,19 +34,21 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/1-Upload_Video-0d1117?style=flat-square&labelColor=161b22&color=1fd7b5" />
-<img src="https://img.shields.io/badge/→-0d1117?style=flat-square&labelColor=0d1117&color=30363d" />
-<img src="https://img.shields.io/badge/2-Polygon_ROI-0d1117?style=flat-square&labelColor=161b22&color=7f77dd" />
-<img src="https://img.shields.io/badge/→-0d1117?style=flat-square&labelColor=0d1117&color=30363d" />
-<img src="https://img.shields.io/badge/3-YOLOv8_Processing-0d1117?style=flat-square&labelColor=161b22&color=f0997b" />
-<img src="https://img.shields.io/badge/→-0d1117?style=flat-square&labelColor=0d1117&color=30363d" />
-<img src="https://img.shields.io/badge/4-Live_Analytics-0d1117?style=flat-square&labelColor=161b22&color=378ADD" />
+<img src="https://img.shields.io/badge/1_Upload_Video-0d1117?style=flat-square&labelColor=161b22&color=1fd7b5"/>
+<img src="https://img.shields.io/badge/→-0d1117?style=flat-square&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/2_Polygon_ROI-0d1117?style=flat-square&labelColor=161b22&color=7f77dd"/>
+<img src="https://img.shields.io/badge/→-0d1117?style=flat-square&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/3_YOLOv8_Processing-0d1117?style=flat-square&labelColor=161b22&color=f0997b"/>
+<img src="https://img.shields.io/badge/→-0d1117?style=flat-square&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/4_Live_Analytics-0d1117?style=flat-square&labelColor=161b22&color=378ADD"/>
 
 </div>
 
 <br/>
 
-<hr/>
+---
+
+<br/>
 ---
 
 
