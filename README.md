@@ -134,27 +134,37 @@ Traffic volume, vehicle/pedestrian counts, average speed, and violation totals u
 
 
 ---
-
-
-<h2 align="center">🎥 Full Demo Video</h2>
+<h3 align="left">🎬 Live Demo</h3>
 
 <div align="center">
-  <a href="https://youtu.be/0Q7lv8L1VGc" target="_blank">
-    <img src="https://img.youtube.com/vi/0Q7lv8L1VGc/maxresdefault.jpg" alt="AI Traffic & Pedestrian Analytics Walkthrough" width="100%" style="max-width: 720px; border-radius: 12px; box-shadow: 0px 10px 30px rgba(0,0,0,0.3);">
+  <br/>
+  <a href="https://youtu.be/0Q7lv8L1VGc" target="_blank" style="text-decoration: none;">
+    <img src="https://img.youtube.com/vi/0Q7lv8L1VGc/maxresdefault.jpg" 
+         alt="AI Traffic & Pedestrian Analytics Walkthrough" 
+         width="640" 
+         style="max-width: 100%; border-radius: 10px; border: 1px solid #30363d; box-shadow: 0 8px 24px rgba(0,0,0,0.5);">
   </a>
 
   <br/><br/>
 
-  <p>
-    <a href="https://youtu.be/0Q7lv8L1VGc" target="_blank">
-      <img src="https://img.shields.io/badge/▶️_Watch_Full_Walkthrough-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube">
-    </a>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Step_1-Upload_Video-0d1117?style=flat-square&logo=github&labelColor=161b22" />
+    &nbsp;➔&nbsp;
+    <img src="https://img.shields.io/badge/Step_2-Polygon_ROI-0d1117?style=flat-square&logo=target&labelColor=161b22" />
+    &nbsp;➔&nbsp;
+    <img src="https://img.shields.io/badge/Step_3-YOLOv8_Processing-0d1117?style=flat-square&logo=python&labelColor=161b22" />
+    &nbsp;➔&nbsp;
+    <img src="https://img.shields.io/badge/Step_4-Live_Analytics-0d1117?style=flat-square&logo=streamlit&labelColor=161b22" />
   </p>
 
   <p align="center">
-    <code>Upload File</code> &nbsp;➔&nbsp; <code>Polygon Selection</code> &nbsp;➔&nbsp; <code>AI Processing</code> &nbsp;➔&nbsp; <code>Live Analytics</code>
+    <a href="https://youtu.be/0Q7lv8L1VGc" target="_blank">
+      <img src="https://img.shields.io/badge/Watch_Walkthrough_(1:40)-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"/>
+    </a>
   </p>
 </div>
+
+<hr/>
 
 ---
 
