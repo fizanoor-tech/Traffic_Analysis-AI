@@ -131,9 +131,9 @@ Traffic volume, vehicle/pedestrian counts, average speed, and violation totals u
 
 <div align="center">
 
-*Watch the full walkthrough — upload, calibration, live detection & analytics in action*
+<em>Watch the full walkthrough — upload, calibration, live detection & analytics in action</em>
 
-<br/>
+<br/><br/>
 
 <a href="https://youtu.be/0Q7lv8L1VGc" target="_blank">
   <img src="https://img.youtube.com/vi/0Q7lv8L1VGc/maxresdefault.jpg" 
@@ -144,19 +144,10 @@ Traffic volume, vehicle/pedestrian counts, average speed, and violation totals u
 
 <br/><br/>
 
-<a href="https://youtu.be/0Q7lv8L1VGc" target="_blank">
-  <img src="https://img.shields.io/badge/▶_WATCH_FULL_WALKTHROUGH-1:40-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/1_Upload_Video-0d1117?style=flat-square&labelColor=161b22&color=1fd7b5"/>
-<img src="https://img.shields.io/badge/→-0d1117?style=flat-square&labelColor=0d1117&color=0d1117"/>
-<img src="https://img.shields.io/badge/2_Polygon_ROI-0d1117?style=flat-square&labelColor=161b22&color=7f77dd"/>
-<img src="https://img.shields.io/badge/→-0d1117?style=flat-square&labelColor=0d1117&color=0d1117"/>
-<img src="https://img.shields.io/badge/3_YOLOv8_Processing-0d1117?style=flat-square&labelColor=161b22&color=f0997b"/>
-<img src="https://img.shields.io/badge/→-0d1117?style=flat-square&labelColor=0d1117&color=0d1117"/>
-<img src="https://img.shields.io/badge/4_Live_Analytics-0d1117?style=flat-square&labelColor=161b22&color=378ADD"/>
+<img src="https://img.shields.io/badge/1_Upload_Video-161b22?style=flat-square&logo=github&color=1fd7b5"/> ➔ 
+<img src="https://img.shields.io/badge/2_Polygon_ROI-161b22?style=flat-square&logo=target&color=7f77dd"/> ➔ 
+<img src="https://img.shields.io/badge/3_YOLOv8_Processing-161b22?style=flat-square&logo=python&color=f0997b"/> ➔ 
+<img src="https://img.shields.io/badge/4_Live_Analytics-161b22?style=flat-square&logo=streamlit&color=378ADD"/>
 
 </div>
 
@@ -164,7 +155,8 @@ Traffic volume, vehicle/pedestrian counts, average speed, and violation totals u
 
 ---
 
-<br/>
+
+
 
 ## 🏗️ Architecture
 
