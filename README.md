@@ -11,47 +11,6 @@
 
 
 
----
-## 🎬 Live Demo
-<div align="center">
-
-*Watch the full walkthrough — upload, calibration, live detection & analytics in action*
-
-<br/>
-
-<a href="https://youtu.be/0Q7lv8L1VGc" target="_blank">
-  <img src="https://img.youtube.com/vi/0Q7lv8L1VGc/maxresdefault.jpg" 
-       alt="AI Traffic & Pedestrian Analytics — Full Walkthrough" 
-       width="720" 
-       style="border-radius: 12px; border: 1px solid #30363d; box-shadow: 0 12px 32px rgba(0,0,0,0.55);">
-</a>
-
-<br/><br/>
-
-<a href="https://youtu.be/0Q7lv8L1VGc" target="_blank">
-  <img src="https://img.shields.io/badge/▶_WATCH_FULL_WALKTHROUGH-1:40-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/1_Upload_Video-0d1117?style=flat-square&labelColor=161b22&color=1fd7b5"/>
-<img src="https://img.shields.io/badge/→-0d1117?style=flat-square&labelColor=0d1117&color=0d1117"/>
-<img src="https://img.shields.io/badge/2_Polygon_ROI-0d1117?style=flat-square&labelColor=161b22&color=7f77dd"/>
-<img src="https://img.shields.io/badge/→-0d1117?style=flat-square&labelColor=0d1117&color=0d1117"/>
-<img src="https://img.shields.io/badge/3_YOLOv8_Processing-0d1117?style=flat-square&labelColor=161b22&color=f0997b"/>
-<img src="https://img.shields.io/badge/→-0d1117?style=flat-square&labelColor=0d1117&color=0d1117"/>
-<img src="https://img.shields.io/badge/4_Live_Analytics-0d1117?style=flat-square&labelColor=161b22&color=378ADD"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
----
-
-
 ## 🧠 Overview
 
 <div align="center">
@@ -150,40 +109,44 @@ Traffic volume, vehicle/pedestrian counts, average speed, and violation totals u
 </p>
 
 
----
-<h3 align="left">🎬 Live Demo</h3>
+## 🎬 Live Demo
 
 <div align="center">
-  <br/>
-  <a href="https://youtu.be/0Q7lv8L1VGc" target="_blank" style="text-decoration: none;">
-    <img src="https://img.youtube.com/vi/0Q7lv8L1VGc/maxresdefault.jpg" 
-         alt="AI Traffic & Pedestrian Analytics Walkthrough" 
-         width="640" 
-         style="max-width: 100%; border-radius: 10px; border: 1px solid #30363d; box-shadow: 0 8px 24px rgba(0,0,0,0.5);">
-  </a>
 
-  <br/><br/>
+*Watch the full walkthrough — upload, calibration, live detection & analytics in action*
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Step_1-Upload_Video-0d1117?style=flat-square&logo=github&labelColor=161b22" />
-    &nbsp;➔&nbsp;
-    <img src="https://img.shields.io/badge/Step_2-Polygon_ROI-0d1117?style=flat-square&logo=target&labelColor=161b22" />
-    &nbsp;➔&nbsp;
-    <img src="https://img.shields.io/badge/Step_3-YOLOv8_Processing-0d1117?style=flat-square&logo=python&labelColor=161b22" />
-    &nbsp;➔&nbsp;
-    <img src="https://img.shields.io/badge/Step_4-Live_Analytics-0d1117?style=flat-square&logo=streamlit&labelColor=161b22" />
-  </p>
+<br/>
 
-  <p align="center">
-    <a href="https://youtu.be/0Q7lv8L1VGc" target="_blank">
-      <img src="https://img.shields.io/badge/Watch_Walkthrough_(1:40)-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"/>
-    </a>
-  </p>
+<a href="https://youtu.be/0Q7lv8L1VGc" target="_blank">
+  <img src="https://img.youtube.com/vi/0Q7lv8L1VGc/maxresdefault.jpg" 
+       alt="AI Traffic & Pedestrian Analytics — Full Walkthrough" 
+       width="720" 
+       style="border-radius: 12px; border: 1px solid #30363d; box-shadow: 0 12px 32px rgba(0,0,0,0.55);">
+</a>
+
+<br/><br/>
+
+<a href="https://youtu.be/0Q7lv8L1VGc" target="_blank">
+  <img src="https://img.shields.io/badge/▶_WATCH_FULL_WALKTHROUGH-1:40-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/1_Upload_Video-0d1117?style=flat-square&labelColor=161b22&color=1fd7b5"/>
+<img src="https://img.shields.io/badge/→-0d1117?style=flat-square&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/2_Polygon_ROI-0d1117?style=flat-square&labelColor=161b22&color=7f77dd"/>
+<img src="https://img.shields.io/badge/→-0d1117?style=flat-square&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/3_YOLOv8_Processing-0d1117?style=flat-square&labelColor=161b22&color=f0997b"/>
+<img src="https://img.shields.io/badge/→-0d1117?style=flat-square&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/4_Live_Analytics-0d1117?style=flat-square&labelColor=161b22&color=378ADD"/>
+
 </div>
 
-<hr/>
+<br/>
 
 ---
+
+<br/>
 
 ## 🏗️ Architecture
 
