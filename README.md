@@ -136,16 +136,24 @@ Traffic volume, vehicle/pedestrian counts, average speed, and violation totals u
 ---
 
 
-
-## 🎥 Full Demo Video
+<h2 align="center">🎥 Full Demo Video</h2>
 
 <div align="center">
+  <a href="https://youtu.be/0Q7lv8L1VGc" target="_blank">
+    <img src="https://img.youtube.com/vi/0Q7lv8L1VGc/maxresdefault.jpg" alt="AI Traffic & Pedestrian Analytics Walkthrough" width="100%" style="max-width: 720px; border-radius: 12px; box-shadow: 0px 10px 30px rgba(0,0,0,0.3);">
+  </a>
 
-[![Watch the full demo](docs/video_thumbnail.png)](https://youtu.be/your-video-id)
+  <br/><br/>
 
-**▶️ [Watch the full walkthrough (2:15)](https://youtu.be/your-video-id)**
-*Upload → polygon selection → processing → live results*
+  <p>
+    <a href="https://youtu.be/0Q7lv8L1VGc" target="_blank">
+      <img src="https://img.shields.io/badge/▶️_Watch_Full_Walkthrough-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube">
+    </a>
+  </p>
 
+  <p align="center">
+    <code>Upload File</code> &nbsp;➔&nbsp; <code>Polygon Selection</code> &nbsp;➔&nbsp; <code>AI Processing</code> &nbsp;➔&nbsp; <code>Live Analytics</code>
+  </p>
 </div>
 
 ---
