@@ -8,8 +8,26 @@
 ![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-red?logo=streamlit)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+# 🎬 Live Demo
 
+<div align="center">
 
+<img src="https://github.com/user-attachments/assets/3baa528f-cfea-4be9-8c7d-956e49ef6f5e" width="72%" alt="AI Traffic Analytics Live Demo" />
+
+<br>
+<i>
+Real-time traffic analytics powered by a custom-trained <b>YOLOv8</b> detector,
+<b>ByteTrack</b> multi-object tracking, and an interactive <b>Streamlit</b> dashboard.
+</i>
+<br><br>
+
+<img src="https://img.shields.io/badge/-Vehicle_Detection-1fd7b5?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Object_Tracking-7f77dd?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Lane_Violation_Detection-e24b4a?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Speed_Estimation-f0997b?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Analytics_Dashboard-378ADD?style=flat-square"/>
+
+</div>
 
 ## 🧠 Overview
 
@@ -109,7 +127,7 @@ Traffic volume, vehicle/pedestrian counts, average speed, and violation totals u
 </p>
 
 
-## 🎬 Live Demo
+## 🎬 Full Demo Video
 
 <div align="center">
 
